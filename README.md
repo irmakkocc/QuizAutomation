@@ -1,1 +1,10 @@
 # QuizAutomation
+Ödevi geliştirmek için Visual Studio 2019 kullandım. 
+Scrum tablosu için Trello kullandım.
+![image](https://user-images.githubusercontent.com/79281832/169117444-5bf0d828-d4cc-4206-8fa7-02aae5f5e320.png)
+Ödev için geliştirdiğim program ilk başta bir ‘Login’ sayfasıyla başlar. Login sayfası içerisinde kullanıcıya göre giriş ve ‘Üye Ol’ butonları vardır. ‘Sınav Sorumlusu’ girişe tıklandığında Sınav Sorumlusu için bir ekran çıkar ve içerisinde ‘Şifremi Unuttum’ kısmı da vardır. Şifremi unuttum kısmına basılırsa şifreyi değiştirmek için gerekli bilgilerin yer aldığı bir form sayfası karşımıza çıkar. 
+Sınav sorumlusu giriş yaptığında karşısına ilk olarak ‘Soru Ekleme’ sayfası gelir. Ekranda yazı olarak yer alan ‘Üniteler’ ve ‘Sonucu Görüntüle’ olarak 2 sayfa daha vardır. Sağ tarafta ise bunlar resimli bir şekilde buton olarak vardır ve ek olarak direkt ‘Login’ sayfasına giden çıkış butonu da vardır.
+Sınav Sorumlusu bu sayfalarda soru ekleyebilir, ünite başlıkları girebilir ve öğrencilerin durumlarını görüntüleyebilirler.
+Yukarıda bahsedilen ‘Login’ ve ‘Şifremi Unuttum’ kısımları Öğrenci için de geçerlidir. Öğrenci giriş yaptığında karşısına ‘Öğrenci Ana Ekranı’ çıkar. Bu sayfada ‘Quiz ol’ ve ‘Durumunu gör olarak’ 2 buton ve ünite seçmesine yarayan bir seçme kutucuğu vardır. İlk olarak bu kutucuktan ünite seçer ve eğer ‘Quiz ol’ butonuna tıklarsa seçtiği üniteye göre veri tabanından rastgele 10 soru seçilir ve öğrencinin karşısına çıkar. Her soruyu işaretleyip ‘Kaydet’ butonuna bastığında ise soru geçilirken bir ‘MessageBox’ kutusu çıkar ve yaptığı soruya göre sorunun doğru olup olmadığını söyler. En son soruya gelindiğinde ise quiz sayfasından çıkar ve ‘Öğrenci Ana Ekran’ menüsüne geri döner. 
+Daha sonra ‘Durumunu Gör’ butonuna tıkladığında ise  seçilen ünite ve konuya göre öğrencinin skoru gözükür.
+Login sayfasında bir tane de ‘Admin Girişi’ vardır ve bu sayfada sadece parola kısmı vardır. Admin giriş yaptığında ‘Sorular’ sayfasına yönlendirilir ve burada ‘Sınav Sorumlusu’ gibi sorularda değişiklik yapabilir. Aynı şekilde ‘Üniteler’ ve ‘Sonuçları Gör’ sayfasına da bakabilir.
