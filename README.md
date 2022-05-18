@@ -1,4 +1,6 @@
 # QuizAutomation
+AYŞE IRMAK KOÇ - 202803046
+
 Ödevi geliştirmek için Visual Studio 2019 kullandım. 
 Scrum tablosu için Trello kullandım.
 ![image](https://user-images.githubusercontent.com/79281832/169117444-5bf0d828-d4cc-4206-8fa7-02aae5f5e320.png)
@@ -38,3 +40,25 @@ Login sayfasında bir tane de ‘Admin Girişi’ vardır ve bu sayfada sadece p
 'Questions' Formu
 
 ![image](https://user-images.githubusercontent.com/79281832/169119972-1f7caea5-1b24-4a1d-9c87-e091af850dac.png)
+
+'Subjects' Formu
+
+![image](https://user-images.githubusercontent.com/79281832/169120225-31e3740b-e1c7-43a0-92bf-e796955aac66.png)
+
+'View Results' Formu
+
+![image](https://user-images.githubusercontent.com/79281832/169120419-05208405-a9e1-49db-b981-499cc608c484.png)
+
+'Student Main Page' Formu
+
+![image](https://user-images.githubusercontent.com/79281832/169120642-a544b61c-245a-4338-a87a-cfd814ba5d23.png)
+
+'Exam 1' Formu
+
+![image](https://user-images.githubusercontent.com/79281832/169120843-4a3d8035-87ec-4293-ab3a-1e3b56edd36a.png)
+
+İSTERLER
+
+![image](https://user-images.githubusercontent.com/79281832/169121122-6bdb8537-77ca-47a6-9f9d-71971413a761.png)
+
+(Burada belirtilen her şey raporda da anlatılmaktadır.)
