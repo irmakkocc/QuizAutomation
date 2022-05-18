@@ -1,0 +1,40 @@
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\bin\Debug\QuizTuto.exe.config
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\bin\Debug\QuizTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\bin\Debug\QuizTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.csprojResolveAssemblyReference.cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Properties.Resources.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.csproj.GenerateResource.Cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Questions.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\bin\Debug\Guna.UI2.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Candidates.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Subjects.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Exams.resources
+C:\Users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Login.resources
+C:\Users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Splash.resources
+C:\Users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.ViewResults.resources
+C:\Users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.About.resources
+C:\Users\afwadmin\documents\visual studio 2015\Projects\QuizTuto\QuizTuto\obj\Debug\QuizTuto.AdminLogin.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\bin\Debug\QuizTuto.exe.config
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\bin\Debug\QuizTuto.exe
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\bin\Debug\QuizTuto.pdb
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.csprojAssemblyReference.cache
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.AdminLogin.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Login.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Questions.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Properties.Resources.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Subjects.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.ViewResults.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.csproj.GenerateResource.cache
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.csproj.CoreCompileInputs.cache
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.csproj.CopyComplete
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.exe
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.pdb
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.StudentLogin.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.StudentMainPage.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.SınavSorumlusuLogin.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.ForgotPassword.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Register.resources
+C:\Users\aysei\Desktop\QuizTuto\QuizTuto\obj\Debug\QuizTuto.Exam1.resources
